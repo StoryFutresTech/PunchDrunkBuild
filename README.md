@@ -1,4 +1,4 @@
-The base Unity build contains the following packages:
+The base Unity 2019.1.8 build contains the following packages:
 
 Editor XR V0.3-
 https://github.com/Unity-Technologies/EditorXR
